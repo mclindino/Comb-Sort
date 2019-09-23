@@ -1,4 +1,4 @@
 # Comb-Sort
 
-Implementation of Comb sort, sorting algorithm.
+Implementation of Comb sort, a sorting algorithm.
 
